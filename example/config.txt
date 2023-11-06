@@ -1,0 +1,2 @@
+Prefix plugins/OPT/example/
+Plugin OPT inputfile parameters.txt outputfile output.txt
